@@ -1,0 +1,29 @@
+<form action=""autocomplete="on">
+                        First name:<br>
+                        <input type="text" name="firstname"><br>
+                        Last name:<br>
+                        <input type="text" name="lastname"><br>
+                        Ward:<br>
+                        <input type="text" name="lastname"><br>
+                        Unique NO:<br>
+                        <input type="number" name="lastname"><br>
+                        Date:<br>
+                        <input type="date" name="lastname" placeholder="timestamp"><br>
+                        Gender<br>
+                        <input type="radio" name="gender" value="male" checked> Male<br>
+                        <input type="radio" name="gender" value="female"> Female<br>
+                        <input type="radio" name="gender" value="other"> Other<br>
+                        DOB:<br>
+                        <input type="date" name="lastname" placeholder="timestamp"><br>
+                        Activity:<br>
+                        <input type="text" name="lastname" placeholder="timestamp"><br>
+                        NIN:<br>
+                        <input type="text" name="lastname" placeholder="timestamp"><br>
+                        Phone:<br>+256
+                        <input type="number" name="lastname" placeholder="timestamp"><br>
+                        Location:<br>
+                        <input type="text" name="lastname" placeholder="timestamp"><br>
+                        <input type="radio" name="year" value="male" checked> <10<br>
+                        <input type="radio" name="year" value="female"> >10<br>
+                        <input type="submit" value="Submit">
+                    </form>
